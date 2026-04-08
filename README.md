@@ -1,6 +1,6 @@
 <img src="logo_3.jpg" alt="Mi Logo" width="1000"/>
 
-# Situación Epidemiológica de Dengue de la provincia del Neuquén
+# Situación Epidemiológica. Provincia del Neuquén
 
 ## Enlaces de los documentos
 - <a href="https://gisedw.github.io/Sala-de-situacion-epidemiologica-de-Dengue--Neuquen/informe_dengue_SE.html">Situación epidemiológica de Dengue Temporada 2025 - 2026 </a>
